@@ -1,0 +1,24 @@
+.navbar{
+    background-color: aquamarine!important;
+}
+
+ul li a{
+    color: darkmagenta!important;
+}
+
+a:hover{
+    text-decoration: underline!important;
+}
+
+.img{
+    max-width: 30%;
+    height: auto;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.price{
+    font-weight: bold;
+}
